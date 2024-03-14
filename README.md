@@ -6,7 +6,3 @@
     <a href="https://t.me/AlastorOffended"><img alt="Telegram" title="Telegramm" src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="https://unity.com/ru"><img alt = "Unity" title = "Unity" src ="https://img.shields.io/badge/Unity-383838?style=for-the-badge&logo=unity&logoColor=white"></a>
 </p>
-
-# Blog posts
-<!-- TgPosts:START -->
-<!-- TgPosts:END -->
